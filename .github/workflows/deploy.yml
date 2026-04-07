@@ -8,3 +8,4 @@ jobs:
     with:
       app_name: frontend
       app_env: dev
+

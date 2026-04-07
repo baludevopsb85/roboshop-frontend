@@ -10,3 +10,4 @@ jobs:
     with:
       app_type: nginx
       app_name: frontend
+

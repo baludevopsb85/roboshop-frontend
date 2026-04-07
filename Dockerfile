@@ -10,3 +10,5 @@ ADD             ./ /usr/share/nginx/html/
 COPY            nginx.conf /etc/nginx/nginx.conf
 USER            nginx
 ENTRYPOINT      ["nginx", "-g", "daemon off;", "-e", "/dev/stderr"]
+
+
